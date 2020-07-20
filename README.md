@@ -5,6 +5,7 @@
 *used Html, Css, Bootstrap and Javascript
 
 *usage
+
  npm start
 
 
