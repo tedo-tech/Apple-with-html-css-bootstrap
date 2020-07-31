@@ -1,13 +1,10 @@
-# Apple WebSite Code
+## Project Title ##
+Responsive-Apple-Website-Recreated-Using-Bootstrap
 
-*Built it from scratch
+## Description ##
+This project is a near perfect replica of Apple website's current landing page. The page is recreated using HTML and CSS and Bootstrap to automatically adjust for different screen sizes and viewports. 
 
-*used Html, Css, Bootstrap and Javascript
-
-*usage
-
- npm start
-
-
+## Tools ##
+HTML, CSS, Bootstrap
 
 
